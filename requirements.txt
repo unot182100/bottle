@@ -1,2 +1,0 @@
-% echo bottle==0.13-dev > requirements.txt
-% echo web: python app.py > Procfile
